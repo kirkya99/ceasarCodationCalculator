@@ -1,4 +1,9 @@
 # Abgabe Web-Programmieren 17.11.2023
+## Gruppenmitglieder
+* Fabian Schotte, 35604
+* Arjan Mavray, 34197
+* Mike Tabler, 35922
+
 ## Idee
 * Unsere Idee ist die Verschlüsselung einer Zeichenkette mit der Caesar-Verschlüsselung.
 * Es werden die Werte P und K an die Funktion übergeben und der Client erhält den verschlüsselten Text zurückgeliefert
